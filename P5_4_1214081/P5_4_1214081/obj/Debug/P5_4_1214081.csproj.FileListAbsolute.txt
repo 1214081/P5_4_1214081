@@ -1,0 +1,11 @@
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\bin\Debug\P5_4_1214081.exe.config
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\bin\Debug\P5_4_1214081.exe
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\bin\Debug\P5_4_1214081.pdb
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.csproj.AssemblyReference.cache
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.Form1.resources
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.Properties.Resources.resources
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.csproj.GenerateResource.cache
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.csproj.CoreCompileInputs.cache
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.exe
+C:\Users\asus ROG\source\repos\P5_4_1214081\P5_4_1214081\obj\Debug\P5_4_1214081.pdb
