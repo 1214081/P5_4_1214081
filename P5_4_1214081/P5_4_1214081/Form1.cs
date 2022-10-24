@@ -96,11 +96,6 @@ namespace P5_4_1214081
                 MessageBox.Show("Harus memasukkan jenis kelamin anda", "Warning!",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (comboBoxJenisKelamin.Text != "Laki - Laki" || comboBoxJenisKelamin.Text != "Perempuan")
-            {
-                MessageBox.Show("Jenis kelamin yang anda masukkan tidak dapat diidentifikasi", "Warning!",
-                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
             else if (kelas == "")
             {
                 MessageBox.Show("Harus memiliki salah satu dari pilihan kelas", "Warning!",
